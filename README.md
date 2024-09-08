@@ -11,9 +11,6 @@ This project is a real-time women surveillance system that analyzes CCTV footage
 To run this project, follow these steps:
 1. Clone the repository:
   git clone https://github.com/adityayogeshwar/Women-saftey-Analytics.git
-2. Create a virtual environment:
-  Using venv:
-    python -m venv env
 # Future Enhancements
 - To Develop a fully functional software application based on this project.
 - Adding the functionalities like violence detection, fire detection, fall detection, and more.
